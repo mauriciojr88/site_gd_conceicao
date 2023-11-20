@@ -28,6 +28,7 @@ header, .navbar {
 
 #logo {
   width: 75px;
+  border-radius: 10px;
 }
 
 .navbar-brand {
