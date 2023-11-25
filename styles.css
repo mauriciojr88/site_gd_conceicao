@@ -206,6 +206,7 @@ header, .navbar {
 
 #apply-area .container-fluid, #apply-area .row {
   height: 100%;
+  width: 500px;
 }
 
 #apply-area .apply-box {
@@ -434,7 +435,7 @@ header, .navbar {
 }
 
 /* responsive */
-@media(max-width: 768px) {
+@media(cold: 768px) {
   
   /* geral */
   .container {
@@ -512,7 +513,6 @@ header, .navbar {
   }
 
 }
-
 
 @media(max-width: 425px) {
 
